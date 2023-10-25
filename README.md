@@ -2,7 +2,7 @@
 
 <img src="./img/SantiagoQuant.jpg">
 
-O algoritmo Santiago adota uma estratégia cuidadosamente planejada para a compra e venda de diversos ativos no mercado. Começando pelo ponto de partida, ele coleta uma ampla gama de dados de mercado, abrangendo índices, commodities, taxas de câmbio e ações de todo o mundo. Essa diversidade de informações é a base fundamental para nossa análise.
+Na busca contínua por uma alquimia moderna nos mercados financeiros, nasce o Algoritmo Santiago. Inspirado na jornada épica descrita por Paulo Coelho em "O Alquimista", este algoritmo incorpora uma estratégia meticulosamente elaborada, assim como o protagonista da famosa obra, para desvendar os segredos ocultos das flutuações do mercado. Ao coletar um vasto espectro de dados financeiros de todo o mundo, o Algoritmo Santiago adota um processo de transformação cuidadosamente orquestrado, desde a purificação dos dados até a projeção de tendências futuras. Com o objetivo de maximizar o retorno ajustado ao risco, essa abordagem holística, baseada em análise avançada e modelagem inteligente, busca não apenas prever o desempenho das ações, mas também otimizar a composição do portfólio, seguindo os princípios consagrados da Teoria Moderna do Portfólio de Markowitz. Neste cenário de complexidade e volatilidade, o Algoritmo Santiago emerge como uma ferramenta completa e robusta, destinada a desvendar os mistérios do mercado financeiro e transformar dados em ouro para os investidores astutos.
 
 A primeira etapa consiste em submeter esses dados a um rigoroso processo de pré-processamento. Esse procedimento tem como objetivo identificar informações altamente relevantes para cada ativo específico. Após a conclusão da limpeza e depuração dos dados, avançamos para a segunda etapa, onde aplicamos uma Variational Autoencoder (VAE). Essa rede neural generativa desempenha um papel crucial, permitindo-nos gerar dados sintéticos e criar representações de alto nível dos dados para o nosso modelo.
 
@@ -27,3 +27,6 @@ A abordagem holística adotada pelo algoritmo Santiago não apenas se concentra 
 <img src="./img/SantiagoQuantIndicadores.png">
 
 A meticulosa fusão de processamento de dados avançado, modelagem preditiva com tecnologia LSTM e uma estratégia de alocação de portfólio baseada em sólidos fundamentos financeiros estabelece o algoritmo Santiago como uma poderosa ferramenta no universo do mercado financeiro. Seu sucesso notável no enfrentamento de mercados voláteis e imprevisíveis atesta sua capacidade de adaptar-se às complexidades em constante evolução do cenário econômico global.
+
+
+"Quando você quer alguma coisa, todo o Universo conspira para que você realize o seu desejo." - Paulo Coelho 
