@@ -1,6 +1,6 @@
 # Santiago
 
-
+<img src="./img/SantiagoQuant.jpg">
 
 O algoritmo Santiago adota uma estratégia cuidadosamente planejada para a compra e venda de diversos ativos no mercado. Começando pelo ponto de partida, ele coleta uma ampla gama de dados de mercado, abrangendo índices, commodities, taxas de câmbio e ações de todo o mundo. Essa diversidade de informações é a base fundamental para nossa análise.
 
