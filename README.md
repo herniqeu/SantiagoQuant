@@ -13,3 +13,17 @@ A partir deste ponto, entramos em uma fase crucial, onde selecionamos as variáv
 Esse procedimento é repetido para várias ações no mercado, proporcionando-nos a capacidade de fazer previsões diárias sobre o desempenho das ações. Em seguida, aplicamos uma estratégia de alocação de portfólio para ajustar as ponderações de cada ativo. Nosso principal objetivo ao fazer isso é maximizar o Índice de Sharpe, seguindo os princípios da Teoria Moderna do Portfólio de Markowitz.
 
 Em resumo, nosso algoritmo não apenas realiza previsões de desempenho de ações, mas também incorpora uma estratégia de alocação de portfólio que visa otimizar o retorno ajustado ao risco. A combinação de pré-processamento de dados, engenharia de características, modelagem com LSTM e estratégia de portfólio torna nossa abordagem completa e robusta na busca por melhores resultados nos mercados financeiros.
+
+## Perfomance
+
+A dedicação incansável do algoritmo Santiago à estratégia meticulosamente elaborada resultou em um retorno extraordinário de 17.67% ao longo do período de análise, superando significativamente o desempenho estagnado do Ibovespa. Esta taxa de retorno excepcional também se destaca quando comparada aos modestos rendimentos do CDI e às taxas de juros brasileiras.
+
+<img src="./img/SantiagoRetorno.png">
+
+O índice de Sharpe, um indicador crucial para medir o desempenho ajustado ao risco, atingiu uma impressionante marca de 1.36, o que reflete a capacidade do algoritmo de gerar retornos consistentes e superiores em relação à volatilidade assumida. Além disso, o índice de Sortino, uma métrica que leva em consideração apenas a volatilidade negativa, exibiu um sólido valor de 2.51, evidenciando a capacidade do algoritmo de proteger o capital contra movimentos adversos do mercado.
+
+A abordagem holística adotada pelo algoritmo Santiago não apenas se concentra na previsão precisa do desempenho das ações, mas também se dedica a otimizar o perfil de risco-retorno por meio de uma estratégia de alocação de portfólio robusta. Ao maximizar o índice de Sharpe, o algoritmo busca garantir um equilíbrio adequado entre o risco assumido e o retorno gerado, seguindo os princípios fundamentais da teoria moderna do portfólio.
+
+<img src="./img/SantiagoQuantIndicadores.png">
+
+A meticulosa fusão de processamento de dados avançado, modelagem preditiva com tecnologia LSTM e uma estratégia de alocação de portfólio baseada em sólidos fundamentos financeiros estabelece o algoritmo Santiago como uma poderosa ferramenta no universo do mercado financeiro. Seu sucesso notável no enfrentamento de mercados voláteis e imprevisíveis atesta sua capacidade de adaptar-se às complexidades em constante evolução do cenário econômico global.
