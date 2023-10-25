@@ -1,5 +1,22 @@
 # Santiago
 
+# Antes de tudo comparativo Santiago x Ibovespa x S&P500
+
+|                | <strong> Santiago </strong>  |   Ibovespa   |   S&P500    | 
+| -------------- | :------: | :------: | :----: | 
+| Retorno Anual | 17.5% | -13.9% | 10.4% |
+| Volatilidade Anual | 12.5% | 31.1% | 15.7% |
+| Índice de Sharpe | 1.36 | -0.33 | 0.71 |
+| Índice de Calmar | 2.15 | -0.37 | 1.21 |
+| Stability | 0.70 | 0.58 | 0.74 |
+| Drawdown Máximo | -8.1% | -37.7% | -8.6% |
+| Índice de Omega | 1.71 | 0.94 | 1.13 |
+| Índice de Sortino | 2.51 | -0.49 | 1.11 |
+
+Estes dados são referentes ao período de setembro-2022 até setembro-2023
+
+# Mas o que é Santiago?
+
 <img src="./img/SantiagoQuant.jpg">
 
 Na busca contínua por uma alquimia moderna nos mercados financeiros, nasce o Algoritmo Santiago. Inspirado na jornada épica descrita por Paulo Coelho em "O Alquimista", este algoritmo incorpora uma estratégia meticulosamente elaborada, assim como o protagonista da famosa obra, para desvendar os segredos ocultos das flutuações do mercado. Ao coletar um vasto espectro de dados financeiros de todo o mundo, o Algoritmo Santiago adota um processo de transformação cuidadosamente orquestrado, desde a purificação dos dados até a projeção de tendências futuras. Com o objetivo de maximizar o retorno ajustado ao risco, essa abordagem holística, baseada em análise avançada e modelagem inteligente, busca não apenas prever o desempenho das ações, mas também otimizar a composição do portfólio, seguindo os princípios consagrados da Teoria Moderna do Portfólio de Markowitz. Neste cenário de complexidade e volatilidade, o Algoritmo Santiago emerge como uma ferramenta completa e robusta, destinada a desvendar os mistérios do mercado financeiro e transformar dados em ouro para os investidores astutos.
